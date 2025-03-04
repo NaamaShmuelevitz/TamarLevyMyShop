@@ -5,6 +5,7 @@ namespace Entities;
 
 public partial class Category
 {
+    //Hey! It's Naama...
     public int CategoryId { get; set; }
 
     public string? CategoryName { get; set; }
